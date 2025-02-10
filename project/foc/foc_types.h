@@ -63,7 +63,7 @@ extern "C" {
 #include "id_ref.h"
 #include "motor_control.h"
 #include "motor_params.h"
-#include "sat_PI/sat_PI.h"
+#include "sat_pi/sat_pi.h"
 // </editor-fold>
 
 // <editor-fold defaultstate="expanded" desc="ENUMERATED CONSTANTS ">

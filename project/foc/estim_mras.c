@@ -54,7 +54,7 @@
 #include <libq.h>
 
 #include "estim_mras.h"
-#include "sat_PI/sat_PI.h"
+#include "sat_pi/sat_pi.h"
 
 #include "general.h"
 

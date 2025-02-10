@@ -61,7 +61,7 @@
 #include "foc_control_types.h"
 #include "motor_params.h"
         
-#include "sat_PI/sat_PI.h"
+#include "sat_pi/sat_pi.h"
         
 // </editor-fold>
 
